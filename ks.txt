@@ -1,0 +1,392 @@
+ // {
+    //   textPertanyaan: '2.Perasaan bersalah',
+    //   subPertanyaan: [
+    //     {
+    //       textSubPertanyaan:
+    //         'Menyalahkan diri sendiri dan merasa sebagai penyebab penderitaan orang lain',
+    //       jawaban: '',
+    //     },
+    //     {
+    //       textSubPertanyaan:
+    //         'Ide-ide bersalah atau renungan tentang kesalahan-kesalahan masa lalu',
+    //       jawaban: '',
+    //     },
+    //     {
+    //       textSubPertanyaan:
+    //         'sakit ini sebagai hukuman, waham bersalah dan berdosa',
+    //       jawaban: '',
+    //     },
+    //     {
+    //       textSubPertanyaan:
+    //         'suara-suara kejaran atau tuduhan dan halusinasi penglihatan tentang hal-hal yang mengancamnya',
+    //       jawaban: '',
+    //     },
+    //   ],
+    // },
+    // {
+    //   textPertanyaan: '3.Bunuh diri',
+    //   subPertanyaan: [
+    //     {
+    //       textSubPertanyaan: 'merasa hidup tak ada gunanya',
+    //       jawaban: '',
+    //     },
+    //     {
+    //       textSubPertanyaan:
+    //         'mengharapkan kematian atau pikiran-pikiran lain kearah itu',
+    //       jawaban: '',
+    //     },
+    //     {
+    //       textSubPertanyaan:
+    //         'ide-ide bunuh diri atau langkah-langkah ke arah itu',
+    //       jawaban: '',
+    //     },
+    //   ],
+    // },
+    // {
+    //   textPertanyaan: '4.Gangguan pola tidur (initial insomnia)',
+    //   subPertanyaan: [
+    //     {
+    //       textSubPertanyaan:
+    //         'keluhan kadang-kadang sukar masuk tidur misalnya , lebih dari setengah jam baru masuk tidur',
+    //       jawaban: '',
+    //     },
+    //     {
+    //       textSubPertanyaan: 'keluhan tiap malam sukar masuk tidur',
+    //       jawaban: '',
+    //     },
+    //   ],
+    // },
+    // {
+    //   textPertanyaan: '5.Gangguan pola tidur (middle insomnia)',
+    //   subPertanyaan: [
+    //     {
+    //       textSubPertanyaan:
+    //         'pasien mengeluh gelisah dan terganggu sepanjang malam',
+    //       jawaban: '',
+    //     },
+    //     {
+    //       textSubPertanyaan:
+    //         'terjadi sepanjang malam (bangun dari tempat tidur kecuali buang air kecil)',
+    //       jawaban: '',
+    //     },
+    //   ],
+    // },
+    // {
+    //   textPertanyaan: '6.Gangguan pola tidur (late insomnia)',
+    //   subPertanyaan: [
+    //     {
+    //       textSubPertanyaan: 'bangun saat dini hari tetapi dapat tidur lagi',
+    //       jawaban: '',
+    //     },
+    //     {
+    //       textSubPertanyaan:
+    //         'bangun saat dini hari tetapi tidak dapat tidur lagi',
+    //       jawaban: '',
+    //     },
+    //   ],
+    // },
+    // {
+    //   textPertanyaan: '7.Kerja dan kegiatan-kegiatannya',
+    //   subPertanyaan: [
+    //     {
+    //       textSubPertanyaan:
+    //         'pikiran perasaan ketidakmampuan keletihan/kelemahan yang berhubungan dengan kegiatan kerja atau hobi',
+    //       jawaban: '',
+    //     },
+    //     {
+    //       textSubPertanyaan:
+    //         'hilangnya minat terhadap pekerjaan/hobi atau kegiatan lainnya baik langsung atau tidak pasien menyatakan kelesuan, keragu-raguan dan rasa bimbang',
+    //       jawaban: '',
+    //     },
+    //     {
+    //       textSubPertanyaan:
+    //         'berkurangnya waktu untuk aktivitas sehari-hari atau produktivitas menurun. Bila pasien tidak sanggup beraktivitas , sekurang-kurangnya 3 jam sehari dalam kegiatan sehari-hari',
+    //       jawaban: '',
+    //     },
+    //     {
+    //       textSubPertanyaan:
+    //         'tidak bekerja karena sakitnya sekarang (dirumah sakit) bila pasien tidak bekerja sama sekali, kecuali tugas-tugas di bangsal atau jika pasien gagal melaksanakan',
+    //       jawaban: '',
+    //     },
+    //     {
+    //       textSubPertanyaan: 'kegiatan-kegiatan di bangsal tanpa bantuan',
+    //       jawaban: '',
+    //     },
+    //   ],
+    // },
+    // {
+    //   textPertanyaan:
+    //     '8.Kelambanan (lambat dalam berpikir , berbicara gagal berkonsentrasi, dan aktivitas motorik menurun )',
+    //   subPertanyaan: [
+    //     {
+    //       textSubPertanyaan: 'sedikit lamban dalam wawancara',
+    //       jawaban: '',
+    //     },
+    //     {
+    //       textSubPertanyaan: 'jelas lamban dalam wawancara',
+    //       jawaban: '',
+    //     },
+    //     {
+    //       textSubPertanyaan: 'sukar diwawancarai',
+    //       jawaban: '',
+    //     },
+    //     {
+    //       textSubPertanyaan: 'stupor (diam sama sekali)',
+    //       jawaban: '',
+    //     },
+    //   ],
+    // },
+    // {
+    //   textPertanyaan: '9.Kegelisahan (agitasi)',
+    //   subPertanyaan: [
+    //     {
+    //       textSubPertanyaan: 'kegelisahan ringan',
+    //       jawaban: '',
+    //     },
+    //     {
+    //       textSubPertanyaan:
+    //         'memainkan tangan jari-jari, rambut, dan lain-lain',
+    //       jawaban: '',
+    //     },
+    //     {
+    //       textSubPertanyaan: 'bergerak terus tidak dapat duduk dengan tenang',
+    //       jawaban: '',
+    //     },
+    //     {
+    //       textSubPertanyaan:
+    //         'meremas-remas tangan, menggigit-gigit kuku, menarik-narik rambut, menggigit-gigit bibir',
+    //       jawaban: '',
+    //     },
+    //   ],
+    // },
+    // {
+    //   textPertanyaan: '10.Kecemasan (ansietas somatik)',
+    //   subPertanyaan: [
+    //     {
+    //       textSubPertanyaan: 'sakit nyeri di otot-otot, kaku, dan keduten otot',
+    //       jawaban: '',
+    //     },
+    //     {
+    //       textSubPertanyaan: 'gigi gemerutuk',
+    //       jawaban: '',
+    //     },
+    //     {
+    //       textSubPertanyaan: 'suara tidak stabil',
+    //       jawaban: '',
+    //     },
+    //     {
+    //       textSubPertanyaan: 'tinitus (telinga berdenging)',
+    //       jawaban: '',
+    //     },
+    //     {
+    //       textSubPertanyaan: 'penglihatan kabur',
+    //       jawaban: '',
+    //     },
+    //     {
+    //       textSubPertanyaan: ' muka merah atau pucat, lemas',
+    //       jawaban: '',
+    //     },
+    //     {
+    //       textSubPertanyaan: 'operasaan ditusuk-tusuk',
+    //       jawaban: '',
+    //     },
+    //   ],
+    // },
+    // {
+    //   textPertanyaan: '11.Kecemasan (ansietas psikis)',
+    //   subPertanyaan: [
+    //     {
+    //       textSubPertanyaan: 'ketegangan subyektif dan mudah tersinggung',
+    //       jawaban: '',
+    //     },
+    //     {
+    //       textSubPertanyaan: 'mengkhawatirkan hal-hal kecil',
+    //       jawaban: '',
+    //     },
+    //     {
+    //       textSubPertanyaan:
+    //         'sikap kekhawatiaran yang tercermin di wajahatau pembicaraannya',
+    //       jawaban: '',
+    //     },
+    //     {
+    //       textSubPertanyaan: 'ketakutan yang diutarakan tanpa ditanya',
+    //       jawaban: '',
+    //     },
+    //   ],
+    // },
+    // {
+    //   textPertanyaan: '12.Gejala somatik (pencernaan)',
+    //   subPertanyaan: [
+    //     {
+    //       textSubPertanyaan:
+    //         'nafsu makan berkurang tetapi dapat makan tanpa dorongan teman, merasa perutnya penuh',
+    //       jawaban: '',
+    //     },
+    //     {
+    //       textSubPertanyaan:
+    //         'sukar makan tanpa dorongan teman, membutuhkan pencahar untuk buang air besar atau obat-obatan untuk saluran pencernaan',
+    //       jawaban: '',
+    //     },
+    //   ],
+    // },
+    // {
+    //   textPertanyaan: '13.Gejala somatik (umum)',
+    //   subPertanyaan: [
+    //     {
+    //       textSubPertanyaan: 'anggota gerak, punggung atau kepala terasa bera',
+    //       jawaban: '',
+    //     },
+    //     {
+    //       textSubPertanyaan:
+    //         'sakit punggung, kepala dan otot-otot, hilangnya kekuatan dan kemampuan',
+    //       jawaban: '',
+    //     },
+    //   ],
+    // },
+    // {
+    //   textPertanyaan: '14.Kotamil (genital)',
+    //   subPertanyaan: [
+    //     {
+    //       textSubPertanyaan:
+    //         'sering buang air kecil terutama malam hari dikala tidur',
+    //       jawaban: '',
+    //     },
+    //     {
+    //       textSubPertanyaan: 'tidak haid, darah haid sedikit sekali',
+    //       jawaban: '',
+    //     },
+    //     {
+    //       textSubPertanyaan: 'ereksi hilang',
+    //       jawaban: '',
+    //     },
+    //     {
+    //       textSubPertanyaan: 'impotensi',
+    //       jawaban: '',
+    //     },
+    //   ],
+    // },
+    // {
+    //   textPertanyaan:
+    //     '15.Hipokondriasis (keluahan somatik, fisik yang berpindah-pindah)',
+    //   subPertanyaan: [
+    //     {
+    //       textSubPertanyaan: 'dihayati sendiri',
+    //       jawaban: '',
+    //     },
+    //     {
+    //       textSubPertanyaan:
+    //         'preokupasi (keterpakuan) mengenai kesehatan sendiri',
+    //       jawaban: '',
+    //     },
+    //     {
+    //       textSubPertanyaan:
+    //         'sering mengeluh membutuhkan pertolongan orang lain',
+    //       jawaban: '',
+    //     },
+    //     {
+    //       textSubPertanyaan: 'delusi hipokondriasi',
+    //       jawaban: '',
+    //     },
+    //   ],
+    // },
+    // {
+    //   textPertanyaan: "16.Kehilangan berat badan (A dan B)",
+    // },
+    // {
+    //   textPertanyaan:
+    //     '16.Kehilangan berat badan (A. Bila hanya dari anamnesis (wawancara))',
+    //   subPertanyaan: [
+    //     {
+    //       textSubPertanyaan:
+    //         'berat badan berkurang berhubungan dengan penyakitnya sekarang',
+    //       jawaban: '',
+    //     },
+    //     {
+    //       textSubPertanyaan: 'jelas penurunan berat badan',
+    //       jawaban: '',
+    //     },
+    //     {
+    //       textSubPertanyaan: 'tak terjelaskan lagi penurunan berat badan',
+    //       jawaban: '',
+    //     },
+    //   ],
+    // },
+    // {
+    //   textPertanyaan:
+    //     '16.Kehilangan berat badan (B. Di bawah pengawasan dokter bangsal secara mingguan bila jelas berat badan berkurang menurut ukuran)',
+    //   subPertanyaan: [
+    //     {
+    //       textSubPertanyaan: 'kurang dari 0,5 kg seminggu',
+    //       jawaban: '',
+    //     },
+    //     {
+    //       textSubPertanyaan: 'lebih dari 0,5 kg seminggu',
+    //       jawaban: '',
+    //     },
+    //     {
+    //       textSubPertanyaan: 'tidak ternyatakan lagi kehilangan berat badan',
+    //       jawaban: '',
+    //     },
+    //   ],
+    // },
+    // {
+    //   textPertanyaan: '17.Insight (pemahaman diri)',
+    //   subPertanyaan: [
+    //     {
+    //       textSubPertanyaan:
+    //         'adakah perubahan atau keadaan yang memburuk pada waktu malam atau pagi',
+    //       jawaban: '',
+    //     },
+    //   ],
+    // },
+    // {
+    //   textPertanyaan: '18.Variasi Harian',
+    //   subPertanyaan: [
+    //     {
+    //       textSubPertanyaan:
+    //         'mengetahui sakit tetapi berhubungan dengan penyebab-penyebab iklim, makanan, kerja berlebihan, virus, perlu istirahat, dan lain-lain',
+    //       jawaban: '',
+    //     },
+    //   ],
+    // },
+    // {
+    //   textPertanyaan:
+    //     '19.Depersonalisasi (perasaan diri berubah) dan derealisasi (perasaan tidak nyata tidak realistis)',
+    //   subPertanyaan: [
+    //     {
+    //       textSubPertanyaan: '',
+    //       jawaban: '',
+    //     },
+    //   ],
+    // },
+    // {
+    //   textPertanyaan: '20.Gejala-gejala paranoid',
+    //   subPertanyaan: [
+    //     {
+    //       textSubPertanyaan: ' kecurigaan',
+    //       jawaban: '',
+    //     },
+    //     {
+    //       textSubPertanyaan: 'pikiran dirinya menjadi pusat perhatian',
+    //       jawaban: '',
+    //     },
+    //     {
+    //       textSubPertanyaan:
+    //         'peristiwa kejadian diluar tertuju pada dirinya (ideas refence)',
+    //       jawaban: '',
+    //     },
+    //     {
+    //       textSubPertanyaan: 'waham kejaran',
+    //       jawaban: '',
+    //     },
+    //   ],
+    // },
+    // {
+    //   textPertanyaan: '21. Gejala-gejala obsesi dan kompulsi',
+    //   subPertanyaan: [
+    //     {
+    //       textSubPertanyaan: '',
+    //       jawaban: '',
+    //     },
+    //   ],
+    // },
